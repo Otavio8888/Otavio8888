@@ -18,7 +18,6 @@ Hi. My name is Otávio and I am economist and data scientist with focus in quant
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCc5qrAua6QgnNSvMNX7XGmg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-      
     </a> 
     <a href="https://https://github.com/Otavio8888?tab=repositories&sort=stargazers">
         <img 
@@ -48,7 +47,9 @@ Hi. My name is Otávio and I am economist and data scientist with focus in quant
     style="padding-right: 10px;" 
     src="
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-          " 
+
+<br/>
+<br/>
 
 
 ### 📊 Estatísticas
