@@ -70,5 +70,6 @@ Hi. My name is Otávio and I am economist and data scientist with focus in quant
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio8888&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+
 </p>
 
