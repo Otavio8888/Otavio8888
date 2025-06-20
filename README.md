@@ -4,7 +4,20 @@
 
 Hi. My name is Otávio and I am economist and data scientist with focus in quantitative finance and econometrics. You can find me on linkedin through my profife "[Otavio Borges](https://www.linkedin.com/in/ot%C3%A1vio-a-351099149/)".
 
-
+<p align="left">
+    <a href="https://www.youtube.com/@Otavio AB?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCc5qrAua6QgnNSvMNX7XGmg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@Otavio AB">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCc5qrAua6QgnNSvMNX7XGmg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
       
     </a> 
     <a href="https://https://github.com/Otavio8888?tab=repositories&sort=stargazers">
