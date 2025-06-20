@@ -2,7 +2,9 @@
 
 **`Economist - quantitative finance`**
 
-Hi. My name is Otávio and I am economist and data scientist with focus in quantitative finance and econometrics. You can find me on linkedin through my profife "[Otavio Borges](https://www.linkedin.com/in/ot%C3%A1vio-a-351099149/)".
+Hi. My name is Otávio. 
+I am economist and data scientist with focus in quantitative finance and econometrics.
+You can find me on the linkedin through my profife "[Otavio A A Borges](https://www.linkedin.com/in/ot%C3%A1vio-a-351099149/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@Otavio AB?sub_confirmation=1">
