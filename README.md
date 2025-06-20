@@ -45,8 +45,7 @@ Hi. My name is Otávio and I am economist and data scientist with focus in quant
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
 <br/>
 <br/>
