@@ -4,17 +4,17 @@
 
 Hi. My name is Otávio. 
 I am economist and data scientist with focus in quantitative finance and econometrics.
-You can find me on the linkedin through my profife "[Otavio A A Borges](https://www.linkedin.com/in/ot%C3%A1vio-a-351099149/)".
+You can find me also on the linkedin through my profile "[Otavio A A Borges](https://www.linkedin.com/in/ot%C3%A1vio-a-351099149/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@Otavio AB?sub_confirmation=1">
+    <a href="https://www.youtube.com/@otavioab9238">
         <img 
             alt="youtube subscribers" 
             title="Subscribe" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCc5qrAua6QgnNSvMNX7XGmg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@Otavio AB">
+    <a href="https://www.youtube.com/@otavioab9238">
         <img 
             alt="youtube views" 
             title=" YouTube Views" 
