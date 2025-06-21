@@ -3,8 +3,7 @@
 **`Economist - quantitative finance`**
 
 Hi. My name is Otávio. 
-I am economist and data scientist with focus in quantitative finance and econometrics.
-You can find me also on the linkedin through my profile "[Otavio A A Borges](https://www.linkedin.com/in/ot%C3%A1vio-a-351099149/)".
+I am economist and data scientist with focus in quantitative finance, statistics, econometrics and philosofy.
 
 <p align="left">
     <a href="https://www.youtube.com/@otavioab9238">
@@ -42,7 +41,7 @@ You can find me also on the linkedin through my profile "[Otavio A A Borges](htt
 <!-- Social icons section -->
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/ot%C3%A1vio-a-351099149/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/ot%C3%A1vio-a-351099149/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/gallery/linked-logo-w5cpEXG"/></a>
  
 </p>
 
