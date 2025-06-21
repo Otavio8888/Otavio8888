@@ -39,6 +39,20 @@ You can find me also on the linkedin through my profile "[Otavio A A Borges](htt
 
 ---
 
+<!-- Social icons section -->
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/ot%C3%A1vio-a-351099149/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+ 
+</p>
+
+<br/>
+
+
+
+
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
