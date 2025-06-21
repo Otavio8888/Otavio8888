@@ -10,14 +10,14 @@ You can find me on the linkedin through my profife "[Otavio A A Borges](https://
     <a href="https://www.youtube.com/@Otavio AB?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Subscribe" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCc5qrAua6QgnNSvMNX7XGmg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@Otavio AB">
         <img 
             alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            title=" YouTube Views" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCc5qrAua6QgnNSvMNX7XGmg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
@@ -48,6 +48,47 @@ You can find me on the linkedin through my profife "[Otavio A A Borges](https://
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+ <img
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" />
+
+<img
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+          
+<img
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
+          
 
 <br/>
 <br/>
