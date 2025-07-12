@@ -1,4 +1,4 @@
-# ✔🏄‍♂️ Otávio A.A. Borges
+# ✔🏄‍♂️ Otávio Andrade Allemand Borges
 
 **`Economist - quantitative finance`**
 
