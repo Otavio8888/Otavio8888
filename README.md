@@ -68,7 +68,7 @@ I am economist and data scientist with focus in quantitative finance, statistics
     title="HTML" 
     width="30px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
     
 <img 
     align="left" 
