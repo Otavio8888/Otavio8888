@@ -62,14 +62,14 @@ I am economist and data scientist with focus in quantitative finance, statistics
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
-    <img
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+    
 <img 
     align="left" 
     alt="HTML"
@@ -77,6 +77,7 @@ I am economist and data scientist with focus in quantitative finance, statistics
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
+
 
 <img 
     align="left" 
@@ -109,7 +110,8 @@ I am economist and data scientist with focus in quantitative finance, statistics
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
-    
+
+
 
 <br/>
 <br/>
