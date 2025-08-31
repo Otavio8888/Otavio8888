@@ -3,7 +3,7 @@
 **`Economist - quantitative finance`**
 
 Hi. My name is Otávio. 
-I am economist and data scientist with focus in quantitative finance, statistics, econometrics and philosofy.
+I am economist with focus in quantitative finance, statistics, econometrics, data science and philosofy.
 
 <p align="left">
     <a href="https://www.youtube.com/@otavioab9238">
